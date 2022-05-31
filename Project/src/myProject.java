@@ -10,6 +10,5 @@
  */
 public class myProject {
     private int sum;
-    
-   
+    int a;
 }
